@@ -1,6 +1,6 @@
-# 📝Python Practice Notebooks
+# 📝Pandas Practice Notebooks
 
-A collection of beginner-friendly practice notebooks where I use Pandas, NumPy, Matplotlib, Seaborn, and Jupyter Notebook to learn data analysis step-by-step.
+A collection of beginner-friendly practice notebooks where I use mainly Pandas to learn data analysis step-by-step.
 
 
 
